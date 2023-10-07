@@ -11,8 +11,8 @@ Wikimedia
 Terms of use: https://www.mediawiki.org/wiki/API:REST_API#Terms_and_conditions
 
 ## API Documentation
-Python requests module: https://pypi.org/project/requests/
-Pageviews API: https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews
+- Python requests module: https://pypi.org/project/requests/
+- Pageviews API: https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews
 
 ## Input/output
 
