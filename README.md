@@ -14,6 +14,10 @@ Terms of use: https://www.mediawiki.org/wiki/API:REST_API#Terms_and_conditions
 - Python requests module: https://pypi.org/project/requests/
 - Pageviews API: https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews
 
+## Code
+- All of the analysis for this project lives in the notebook 'pageview_analysis.ipynb'.
+- The notebook 'wp_article_views_example.ipynb' contains example code that uses the Pageviews API.
+
 ## Input/output
 
 Input: thank_the_academy.AUG.2023.csv.xlsx
